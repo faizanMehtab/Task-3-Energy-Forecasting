@@ -5,7 +5,7 @@
 This project focuses on forecasting **hourly household energy consumption** using multiple time series and machine learning models. The objective is to analyze historical power usage patterns and compare different forecasting approaches based on performance metrics.
 
 The project was completed as part of a **Data Science internship tasks** and follows proper data preprocessing, modeling, evaluation, and comparison steps.
-zip file of complete task is given because of large data set.
+The household_power_consumption_input data set is given as zip file because of large data file size.
 ---
 
 ##  Dataset Description
